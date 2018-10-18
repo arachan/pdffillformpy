@@ -5,7 +5,8 @@ PythonでPDFフォームにデータを埋め込みたい。
 だから、試してみた。
 
 ## 環境
-僕の環境は下記の通り
+僕の環境は下記の通り。
+
 多分、LinuxやmacOSでも上手く動くと思う。
 
 - Windows10
@@ -14,8 +15,11 @@ PythonでPDFフォームにデータを埋め込みたい。
 
 ### Sample PDF
 Sample PDFはLibreOffice Drawで作った。
+
 [invoice_template](https://bostata.com/download/post/fillable_pdf/invoice_template.pdf)は上手くいかなかった。
+
 データがフォームに埋め込まれている。
+
 テキストボックスの名前の表示が邪魔してデータが埋め込まれた状態では印字されない。
 
 
